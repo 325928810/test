@@ -1,6 +1,7 @@
 # MyProject 
-## Project Description This project is developed using .NET 7 Core and includes a REST API interface. The goal is to provide secure and well-monitored APIs for data management. 
-## Key Features - Developed using .NET 7 Core and REST API technologies. - Stringent validations using the zxcvbn library for password strength.
+## Project Description: This project is developed using .NET 7 Core and includes a REST API interface. The goal is to provide secure and well-monitored APIs for data management. 
+## Key Features - Developed using .NET 7 Core and REST API technologies.
+- Stringent validations using the zxcvbn library for password strength.
 - The project is divided into three layers (Layers) that use DI (Dependency Injection) to maintain encapsulation.
 - Uses Entity Framework ORM with DB First approach. Code First can be run.
 - Extensive use of async and await for every function to ensure scalability.
